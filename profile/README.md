@@ -141,8 +141,8 @@ We collaborate with:
 - Government & Institutional Projects  
 - Long-term Digital Infrastructure Initiatives  
 
-📩 contact@icode.rw  
-🌐 https://icode.rw  
+📩 icoderwandacompanyltd@gmail.com
+🌐 https://icode-delta.vercel.app/
 
 ---
 
