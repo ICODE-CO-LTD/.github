@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://icode.rw">
+  <a href="https://icode-delta.vercel.app">
     <img src="https://img.shields.io/badge/Website-icode.rw-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-  <a href="mailto:contact@icode.rw">
+  <a href="mailto:icoderwandacompanyltd@gmail.com">
     <img src="https://img.shields.io/badge/Email-contact@icode.rw-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/ICODE-CO-LTD">
